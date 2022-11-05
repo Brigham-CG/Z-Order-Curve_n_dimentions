@@ -10,7 +10,7 @@ Hecho por:
   
 Ejemplo de funcionamiento:
 
-  -Se instanciara la clase "Z_order" con los parametros (order, dimention) \n 
+  -Se instanciara la clase "Z_order" con los parametros (order, dimention) <br /> 
   ![imagen](https://user-images.githubusercontent.com/70500865/200094933-c8cee11d-05d2-477c-87ef-3206ccef5f7e.png) \n
   
   -Para generar el arreglo de 1 dimension en z order se utilizara el método 'generate_z_order_curve' con (matriz, tamaño) \n
